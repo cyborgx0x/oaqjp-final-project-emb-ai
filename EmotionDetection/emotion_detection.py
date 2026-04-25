@@ -42,7 +42,3 @@ def emotion_detector(text_to_analyze) -> str:
             'dominant_emotion': dominant_emotion
             }
 
-
-# test
-
-emotion_detector("I love this new technology.")
